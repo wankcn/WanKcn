@@ -11,8 +11,8 @@
 - 😭 I want to be a **Game R & D Engineer**...
 - 💻 I’m currently learning **Unity and Algorithms**
 - 🌈 **...I hope I can learn from you**
-- ✉️ How to reach me: [@wankcn](https://weibo.com/wankcn) on Weibo
-- ⚡ Fun fact: Severe online game patients
+- ✉️ How to reach me: **[@wankcn]**(https://weibo.com/wankcn) on Weibo
+- ⚡ Fun fact: **Severe online game patients**
 - 📖 I'm reading ***C++ Primer Plus*** and ***Algorithm Fourth Edition***
 
 ---

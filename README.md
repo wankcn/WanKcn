@@ -1,4 +1,4 @@
-## 👋 Hi! I'm WenRuo.
+## 👋 Hi! I'm WenRuo.🇨🇳🇨🇳🇨🇳
 
 
 <p>
@@ -9,9 +9,9 @@
 
 ---
 
-- 🔭 I’m currently working on **...I'm a junior**
-- 🌱 I’m currently learning **Unity and Algorithms**
-- 💬 Ask me about **......I hope I can learn from you**
+- 😭 I’m currently working on **...I'm a junior**
+- 💻 I’m currently learning **Unity and Algorithms**
+- 🌈 Ask me about **......I hope I can learn from you**
 - 📫 How to reach me: [@wankcn](https://weibo.com/wankcn) on Weibo
 - ⚡ Fun fact: Severe online game patients🙄️
 

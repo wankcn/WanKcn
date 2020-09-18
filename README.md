@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm WenRuo.🇨🇳🇨🇳🇨🇳
-
+🙏**Make a wish offer**
 
 <p>
   <a href="https://blog.csdn.net/wankcn">Blog</a> •
@@ -9,7 +9,7 @@
 
 ---
 
-- 😭 I want to be a Game R & D Engineer...Please give me an offer...
+- 😭 I want to be a Game R & D Engineer...
 - 💻 I’m currently learning **Unity and Algorithms**
 - 🌈 Ask me about **......I hope I can learn from you**
 - 📫 How to reach me: [@wankcn](https://weibo.com/wankcn) on Weibo

@@ -1,14 +1,14 @@
 ## 👋 Hi! I'm WenRuo.🇨🇳🇨🇳🇨🇳
 
 <p>
-  😬<a href="https://blog.csdn.net/wankcn">CSDN</a> •
-  <a href="https://weibo.com/wankcn">Weibo</a> •
+  <a href="https://blog.csdn.net/wankcn">CSDN</a> •
+  <a href="https://weibo.com/wankcn">Weibo😩</a> •
   <a href="https://space.bilibili.com/86825670">Bilibili</a>
 </p>
 
 ---
 
-- 😭 I want to be a Game R & D Engineer...
+- 😭 I want to be a **Game R & D Engineer**...
 - 💻 I’m currently learning **Unity and Algorithms**
 - 🌈 Ask me about **......I hope I can learn from you**
 - 📫 How to reach me: [@wankcn](https://weibo.com/wankcn) on Weibo

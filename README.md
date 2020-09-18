@@ -9,7 +9,7 @@
 
 ---
 
-- 😭 I’m currently working on **...I'm a junior**
+- 😭 I want to be a Game R & D Engineer...Please give me an offer...
 - 💻 I’m currently learning **Unity and Algorithms**
 - 🌈 Ask me about **......I hope I can learn from you**
 - 📫 How to reach me: [@wankcn](https://weibo.com/wankcn) on Weibo

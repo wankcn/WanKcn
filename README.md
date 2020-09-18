@@ -1,5 +1,6 @@
-👋 Hello! I'm WenRuo.
+👋 Hi! I'm WenRuo.
 -----
+
 <p align="center">
   <a href="https://blog.csdn.net/wankcn">Blog</a> •
   <a href="https://weibo.com/wankcn">Weibo</a> •

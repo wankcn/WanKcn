@@ -1,11 +1,10 @@
 ## 👋 Hi! I'm WenRuo.🇨🇳🇨🇳🇨🇳
 
 <p>
-  ฅ(๑ ̀ㅅ ́๑)ฅ
+  ฅ(๑ ̀ㅅ ́๑)ฅ &nbsp;
   <a href="https://blog.csdn.net/wankcn">CSDN</a> |
   <a href="https://weibo.com/wankcn">Weibo</a> |
   <a href="https://space.bilibili.com/86825670">Bilibili</a>
-  ฅ(๑ ̀ㅅ ́๑)ฅ
 </p>
 
 ---

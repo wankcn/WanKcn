@@ -1,4 +1,5 @@
-<h2 align="center">👋 Hello! I'm WenRuo.</h2>
+👋 Hello! I'm WenRuo.
+-----
 <p align="center">
   <a href="https://blog.csdn.net/wankcn">Blog</a> •
   <a href="https://weibo.com/wankcn">Weibo</a> •

@@ -13,7 +13,7 @@
 - 🌈 **...I hope I can learn from you**
 - ✉️ How to reach me: [**@wankcn**](https://weibo.com/wankcn) on Weibo
 - ⚡ Fun fact: **Severe online game patients**
-- 📖 I'm reading ***C++ Primer Plus*** and ***Algorithm Fourth Edition***
+- 📖 I'm reading ***Game Programming Patterns*** and ***Algorithm Fourth Edition***
 ---
 🙏 &nbsp;&nbsp; **Make a wish offer** &nbsp;&nbsp;🙏
 
